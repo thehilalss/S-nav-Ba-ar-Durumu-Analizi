@@ -1,1 +1,1 @@
-# S-nav-Ba-ar-Durumu-Analizi
+# Sinav-Basari-Durumu-Analizi
